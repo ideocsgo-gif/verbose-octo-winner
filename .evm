@@ -1,5 +1,5 @@
 SMTP_HOST=smtp.gmail.com
 SMTP_PORT=587
 SMTP_SECURE=false
-SMTP_USER=ваш_email@gmail.com
-SMTP_PASS=ваш_пароль_приложения
+SMTP_USER=ideocsgo@gmail.com
+SMTP_PASS=iuqqhxinrzuftaup
